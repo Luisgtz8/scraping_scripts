@@ -31,6 +31,12 @@ python hello_world.py
 python hello_world.py --scrape
 ```
 
+5. Scrape Home Solutions Helper for the latest headlines:
+
+```bash
+python homesolutions_helper.py --limit 5
+```
+
 Commit the scaffold
 -------------------
 
